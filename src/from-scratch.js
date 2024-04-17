@@ -1,3 +1,4 @@
+/** FEEDBACK: Great job! You have all test cases passing! */
 const coolGreeting = (person) => {
     return person.isCool ? `What is UP ${person.name.toUpperCase()}? How you been doin'?`: `Greetings ${person.name}, how have you been lately?`
 };
